@@ -1,0 +1,17 @@
+	 Welcome Rameshwar Shop 
+
+ Bill Number : 2362
+ Customer Name : santosh
+ Phone Number : 23543423
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Fcae Cream		1		120
+ Food Oil		2		240
+ Frooti		1		50
+ ------------------------------------
+ Cosemetic Tax		Rs. 6.0
+ Grocery Tax		Rs. 24.0
+ Cold Drink Tax		Rs. 2.5
+ Total Bill : 		 Rs. 442.5
+ ------------------------------------

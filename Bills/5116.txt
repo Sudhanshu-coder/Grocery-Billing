@@ -1,0 +1,25 @@
+	 Welcome Rameshwar Shop 
+
+ Bill Number : 5116
+ Customer Name : HEMA KUMARI
+ Phone Number : 8210707560
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Bath Soap		20		800
+ Fcae Cream		15		1800
+ Face Wash		5		300
+ Body Loshan		10		1800
+ Daal		10		600
+ Wheat		50		9000
+ Sugar		10		1400
+ Tea		1		180
+ Maza		10		600
+ Frooti		25		1250
+ Sprite		5		300
+ ------------------------------------
+ Cosemetic Tax		Rs. 235.0
+ Grocery Tax		Rs. 1118.0
+ Cold Drink Tax		Rs. 107.5
+ Total Bill : 		 Rs. 19490.5
+ ------------------------------------

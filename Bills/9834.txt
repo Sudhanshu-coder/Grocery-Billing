@@ -1,0 +1,13 @@
+	 Welcome Rameshwar Shop 
+
+ Bill Number : 9834
+ Customer Name : sudhanshu kumar
+ Phone Number : 7549027630
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Bath Soap		1		40
+ ------------------------------------
+ Cosemetic Tax		Rs. 2.0
+ Total Bill : 		 Rs. 42.0
+ ------------------------------------

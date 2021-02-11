@@ -1,0 +1,17 @@
+	 Welcome to Grocery Shop 
+
+ Bill Number : 4065
+ Customer Name : sudhanshu kumar
+ Phone Number : 7878787878
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Fcae Cream		6		720
+ Daal		7		420
+ Coca Cola		8		480
+ ------------------------------------
+ Cosemetic Tax		Rs. 36.0
+ Grocery Tax		Rs. 42.0
+ Cold Drink Tax		Rs. 24.0
+ Total Bill : 		 Rs. 1722.0
+ ------------------------------------

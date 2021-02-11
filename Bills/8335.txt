@@ -1,0 +1,18 @@
+	 Welcome to Grocery Shop 
+
+ Bill Number : 8335
+ Customer Name : Farhat
+ Phone Number : 7867564556
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Body Loshan		1		180
+ Tea		3		540
+ Maza		2		120
+ Coca Cola		2		120
+ ------------------------------------
+ Cosemetic Tax		Rs. 9.0
+ Grocery Tax		Rs. 54.0
+ Cold Drink Tax		Rs. 12.0
+ Total Bill : 		 Rs. 1035.0
+ ------------------------------------

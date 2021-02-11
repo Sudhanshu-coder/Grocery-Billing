@@ -1,0 +1,25 @@
+	 Welcome Rameshwar Shop 
+
+ Bill Number : 3708
+ Customer Name : Shall kumari
+ Phone Number : 9905572660
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Bath Soap		2		80
+ Fcae Cream		2		240
+ Face Wash		1		60
+ Rice		1		40
+ Food Oil		1		120
+ Daal		2		120
+ Wheat		2		360
+ Sugar		5		700
+ Tea		1		180
+ Maza		4		240
+ Frooti		2		100
+ ------------------------------------
+ Cosemetic Tax		Rs. 19.0
+ Grocery Tax		Rs. 152.0
+ Cold Drink Tax		Rs. 17.0
+ Total Bill : 		 Rs. 2428.0
+ ------------------------------------

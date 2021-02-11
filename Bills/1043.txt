@@ -1,0 +1,17 @@
+	 Welcome Rameshwar Shop 
+
+ Bill Number : 1043
+ Customer Name : prem
+ Phone Number : 8002203985
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Bath Soap		1		40
+ Tea		1		180
+ Maza		1		60
+ ------------------------------------
+ Cosemetic Tax		Rs. 2.0
+ Grocery Tax		Rs. 18.0
+ Cold Drink Tax		Rs. 3.0
+ Total Bill : 		 Rs. 303.0
+ ------------------------------------

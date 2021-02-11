@@ -1,0 +1,15 @@
+	 Welcome Rameshwar Shop 
+
+ Bill Number : 3026
+ Customer Name : sudhanshu
+ Phone Number : 9878675658
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Rice		1		40
+ Maza		1		60
+ ------------------------------------
+ Grocery Tax		Rs. 4.0
+ Cold Drink Tax		Rs. 3.0
+ Total Bill : 		 Rs. 107.0
+ ------------------------------------
